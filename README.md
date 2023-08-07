@@ -4,3 +4,7 @@
 ## Debezium Postgres connectors captures role level database changes and stream data to Kafka via Kafka connect
 ## postgres wal_level was changed from replica to logical to enable publish and subscribe model (Pub/sub)
 ## Postgres User was created and granted to CREATE and SELECT privileges respectively to be able to add and copy publications and table data
+
+## Image showing database Source table 
+![from-postgres-staging-table](https://github.com/liltims77/Streaming-data-with-Apache-Kafka-on-postgres-using-debezium-connector/assets/41475769/bf7afe7b-e080-4b4e-bee6-c78b433c2cf7)
+
