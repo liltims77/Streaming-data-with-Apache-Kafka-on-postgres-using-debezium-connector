@@ -8,3 +8,9 @@
 ## Image showing database Source table 
 ![from-postgres-staging-table](https://github.com/liltims77/Streaming-data-with-Apache-Kafka-on-postgres-using-debezium-connector/assets/41475769/bf7afe7b-e080-4b4e-bee6-c78b433c2cf7)
 
+## Image showing data streamed to the destination table with selected desired column
+![to-p0stgres-destination-table](https://github.com/liltims77/Streaming-data-with-Apache-Kafka-on-postgres-using-debezium-connector/assets/41475769/d7d6517c-7a40-49f1-9788-993d78c7e161)
+
+## check the Jupyter files for codes
+
+
